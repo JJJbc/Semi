@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+ul, li {
+	list-style: none;
+}
+
+/* .main-container__content {
+	border: 1px solid;
+} */
+/*  main/swiper */
+.main-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 80px;
+}
+
+.main-container .main-container__content {
+	display: flex;    
+    max-width: 3000px;
+}
+
+.main-container .main-container__content .swiper{	
+	width: 700px;
+	height: 600px;	
+}
+
+
+
+
+
